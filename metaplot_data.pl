@@ -1,6 +1,6 @@
 #! /usr/bin/perl -w
 # use bedtools intersect from bins peaks and gene gff output... pull out data to use for metaplot
-# TEfamily_macs.pl
+# /home/springer/nosha003/W22/scripts/metaplot_data.pl
 # 2_Jan_2017
 # Jaclyn_Noshay
 
