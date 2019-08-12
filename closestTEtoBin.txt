@@ -1,0 +1,1 @@
+bedtools closest -D b -t first -k 1 -b /home/springer/nosha003/database/B73v4/te/B73.structuralTEv2.2018.12.20.filteredTE.TIR.noctg.gff3 -a /home/springer/nosha003/wgbs_schmitz/tiles_output/B73_V2_100bp_ratio.txt > /home/springer/nosha003/methylation_spreading/B73_tir_closestTEtoBin_20Dec2018.txt
